@@ -11,6 +11,7 @@ package com.mycompany.xaz;
 public class main {
    public static void main(String[] args) {
         System.out.println("Versión 1 - Proyecto inicial Swing o Consola");
-        System.out.println("Versión 2 - Se agregó comentario de prueba"); // nuevo cambio
+        System.out.println("Versión 2 - Se agregó comentario de prueba");
+        System.out.println("Versión 3 - Proyecto final actualizado correctamente"); // última versión
     }
 }
